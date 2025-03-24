@@ -1,0 +1,1 @@
+export { DeveloperResumeSection } from "./DeveloperResumeSection";
